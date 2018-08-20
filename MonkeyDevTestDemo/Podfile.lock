@@ -1,0 +1,16 @@
+PODS:
+  - MDSettingCenter (1.1.0)
+
+DEPENDENCIES:
+  - MDSettingCenter
+
+SPEC REPOS:
+  https://github.com/AloneMonkey/MonkeyDevSpecs.git:
+    - MDSettingCenter
+
+SPEC CHECKSUMS:
+  MDSettingCenter: 41b910206cd1d826e11247413cd48a068d38e274
+
+PODFILE CHECKSUM: 1d68114384e16fc2adc51f4d7f5b8dea53750e2c
+
+COCOAPODS: 1.5.3
